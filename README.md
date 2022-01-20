@@ -1,4 +1,4 @@
-# Programming_with_C_and_C-
+# Programming_with_C_and_C++
 Notes on "Programming with C and C++"
 
 - Source : https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF(Saurabh Shukla) 
