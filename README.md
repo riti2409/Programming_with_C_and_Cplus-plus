@@ -9,4 +9,4 @@ Notes on "Programming with C and C++"
 - PDF(of notes): https://drive.google.com/file/d/1FHt2QoM6U8rydz9HQkNF6Le0fgKtAy3m/view?usp=sharing
 
 
-[C_Cheat.pdf](https://github.com/riti2409/Programming_with_C_and_Cplus-plus/files/7980816/C_Cheat.pdf)
+-Cheatsheet : [C_Cheat.pdf](https://github.com/riti2409/Programming_with_C_and_Cplus-plus/files/7980816/C_Cheat.pdf)
